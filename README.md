@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm Nehal — a mechatronics engineering student who sometimes makes things harder than they need to be (on purpose).
+I'm Nehal! (A mechatronics engineering student who unknowningly over-complicates the easy stuff with imagination.)
 
 🎓 Mechatronics Engineering student @HumberPolytechnic
 
@@ -8,14 +8,14 @@ I'm Nehal — a mechatronics engineering student who sometimes makes things hard
 
 🤖 I like robots, pneumatics, and overcomplicating simple mechanisms
 
-## 🚧 Curent Projects
-
-**Box erector & nut feeding machine** — All hardwired, pneumatic cylinders, no microcontroller. Smart relays and limit switches only. Yes, I'm making this hard for myself.
+## 🚧 Curent Projects : Everything. (Guys why is a robotics engineer involved in EVERYTHING??)
 
 ## 🌱 Currently learning
 
-- Assembly language (Keil uVision, TIVA board)
-- Python
+- Python - Numpy & Panda
+- System Modelling & Simulation : MATLAB
+- Detailed DC Motors
+- SolidWorks (An expert probably)
 
 ## 📂 Projects I remember (so far)
 
@@ -25,12 +25,13 @@ I'm Nehal — a mechatronics engineering student who sometimes makes things hard
 | **ADC for PWM control** | PCB designed in Multisim & Ultiboard |
 | **FPGA ADC + LED display** | VHDL on FPGA — potentiometer input to ADC, signals to LED |
 | **Face Detection** | MATLAB-based vision program |
+| **Box erector & Nut Feeding Machine** | Pneumatic cylinders. Smart relays. |
 
 ## 💬 Ask me about
 
 - Making a bunny robot flap its ears
-- Why I chose pneumatics over a microcontroller
-- FPGA pain points (I have opinions)
+- Why I chose robotics over embedded
+- FPGA pain points (I have opinions (This is why I don't like embedded))
 
 ## 📫 Reach me
 
